@@ -254,4 +254,6 @@ During generation, the model predicts one word at a time, sampling from the soft
 - TQDM for progress bars (optional)
 
 ## Dataset
-- Flickr8k dataset: Contains 8,000 images, each paired with five human-annotated captions.
+- Flickr8k dataset: Contains 8,000 images, each paired with five human-annotated captions.# Acknowledgments
+Inspired by the original Transformer architecture by Vaswani et al. and the application of CNNs in computer vision. The Flickr8k dataset is a standard resource for image captioning research.
+</xaiArtifact>
